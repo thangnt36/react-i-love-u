@@ -6,6 +6,7 @@ import {Carousel} from 'react-bootstrap';
 import bg1 from './../img/slider/bg-1.jpg';
 import bg2 from './../img/slider/bg-2.jpg';
 import bg3 from './../img/slider/bg-3.jpg';
+import Portfolio from './Portfolio';
 
 
 function App() {
@@ -13,7 +14,7 @@ function App() {
     <div>
      <Nav/>
    
-     <Carousel>
+     <Carousel id="mycarousel">
   <Carousel.Item>
     <img
       className="d-block w-100"
@@ -27,7 +28,7 @@ function App() {
   </Carousel.Item>
   <Carousel.Item>
     <img
-      className="d-block w-200"
+      className="d-block w-100"
       src={bg2}
       alt="Third slide"
     />
@@ -39,7 +40,7 @@ function App() {
   </Carousel.Item>
   <Carousel.Item>
     <img
-      className="d-block w-200"
+      className="d-block w-100"
       src={bg3}
       alt="Third slide"
     />
@@ -50,7 +51,7 @@ function App() {
     </Carousel.Caption>
   </Carousel.Item>
 </Carousel>
- 
+    <Portfolio/>
      <Footer/>
     </div>
   );

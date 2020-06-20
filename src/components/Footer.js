@@ -18,7 +18,7 @@ export default function Footer() {
         <div>
             <footer>
   {/* Footer Area Start */}
-  <section className="footer-Content">
+  <section className="footer-Content" id="footers">
     <div className="container">
       <div className="row">
         <div className="col-lg-6 col-md-6 col-sm-6 col-xs-6 col-mb-12">
@@ -60,24 +60,16 @@ export default function Footer() {
       <div className="row">
         <div className="col-md-12">
           <div className="site-info float-left">
-            <p>Crafted by <a href="https://www.facebook.com/th4ngnguyen?" rel="nofollow">NTT</a></p>
+            <p>Crafted by <a href="https://www.facebook.com/th4ngnguyen" rel="nofollow">NTT</a></p>
           </div>              
           <div className="float-right">  
             <ul className="nav nav-inline">
               <li className="nav-item">
-                <a className="nav-link active" href="#top">About Prime</a>
+                <a className="nav-link active" href="https://www.facebook.com/th4ngnguyen">About NTT</a>
               </li>
+             
               <li className="nav-item">
-                <a className="nav-link" href="#top">TOS</a>
-              </li>
-              <li className="nav-item">
-                <a className="nav-link" href="#top">Return Policy</a>
-              </li>
-              <li className="nav-item">
-                <a className="nav-link" href="#top">FAQ</a>
-              </li>
-              <li className="nav-item">
-                <a className="nav-link" href="#top">Contact</a>
+                <a className="nav-link" href="https://www.facebook.com/th4ngnguyen">Contact</a>
               </li>
             </ul>
           </div>

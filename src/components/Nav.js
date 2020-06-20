@@ -27,13 +27,13 @@ export default function Nav() {
     <div className="collapse navbar-collapse" id="navbarCollapse">
       <ul className="navbar-nav mr-auto w-100 justify-content-end">
         <li className="nav-item">
-          <a className="nav-link page-scroll" href="#slider-area">I</a>
+          <a className="nav-link page-scroll" href="#mycarousel">I</a>
         </li>
         <li className="nav-item">
           <a className="nav-link page-scroll" href="#portfolios">Love</a>
         </li>            
         <li className="nav-item">
-          <a className="nav-link page-scroll" href="#team">U</a>
+          <a className="nav-link page-scroll" href="#footers">U</a>
         </li>    
       </ul>              
     </div>
