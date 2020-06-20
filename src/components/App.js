@@ -7,6 +7,7 @@ import bg1 from './../img/slider/bg-1.jpg';
 import bg2 from './../img/slider/bg-2.jpg';
 import bg3 from './../img/slider/bg-3.jpg';
 import Portfolio from './Portfolio';
+import Portfolio2 from './Portfolio2';
 
 
 function App() {
@@ -52,6 +53,7 @@ function App() {
   </Carousel.Item>
 </Carousel>
     <Portfolio/>
+    <Portfolio2/>
      <Footer/>
     </div>
   );
