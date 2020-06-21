@@ -8,6 +8,7 @@ import bg2 from './../img/slider/bg-2.jpg';
 import bg3 from './../img/slider/bg-3.jpg';
 import Portfolio from './Portfolio';
 import Portfolio2 from './Portfolio2';
+import Portfolio3 from './Portfolio3';
 
 
 function App() {
@@ -54,6 +55,7 @@ function App() {
 </Carousel>
     <Portfolio/>
     <Portfolio2/>
+    <Portfolio3/>
      <Footer/>
     </div>
   );

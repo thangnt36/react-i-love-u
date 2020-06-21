@@ -24,7 +24,7 @@ export default function Footer() {
         <div className="col-lg-6 col-md-6 col-sm-6 col-xs-6 col-mb-12">
           <h3>thangjik12</h3>
           <div className="textwidget">
-            <p>Trang web này làm phục vụ mục đích để nói rằng NTT yêu DTTH</p>
+            <p>Trang web này làm phục vụ mục đích để nói rằng NTT yêu DTTH rất nhiều </p>
           </div>
           <ul className="footer-social">
             <li><a className="facebook" href="https://www.facebook.com/th4ngnguyen"><i className="lni-facebook-filled" /></a></li>
