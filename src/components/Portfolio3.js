@@ -21,7 +21,7 @@ export default function Portfolio3() {
   {/* Container Starts */}
   <div className="container">
     <div className="section-header">          
-      <h2 className="section-title">Lời chúc đáng yêu kỉ niệm 100 ngày của anh dành cho NIKI <3</h2>
+      <h2 className="section-title">Lời chúc đáng yêu kỉ niệm 100 ngày của anh dành cho NIKI :3</h2>
       <span>NTT LOVE DTHH</span>
       <p className="section-subtitle">Hãy xem và cảm nhận tình yêu anh dành cho em nhé !!!</p>
     </div>

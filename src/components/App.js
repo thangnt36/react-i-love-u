@@ -6,6 +6,7 @@ import {Carousel} from 'react-bootstrap';
 import bg1 from './../img/slider/bg-1.jpg';
 import bg2 from './../img/slider/bg-2.jpg';
 import bg3 from './../img/slider/bg-3.jpg';
+import bg4 from './../img/slider/bg-4.jpg';
 import Portfolio from './Portfolio';
 import Portfolio2 from './Portfolio2';
 import Portfolio3 from './Portfolio3';
@@ -50,6 +51,17 @@ function App() {
     <Carousel.Caption>
       <h3>Ảnh 3</h3>
       <p>Đến lượt anh ngầu rồi :v</p>
+    </Carousel.Caption>
+  </Carousel.Item>
+  <Carousel.Item>
+    <img
+      className="d-block w-100"
+      src={bg4}
+      alt="First slide"
+    />
+    <Carousel.Caption>
+      <h3>Ảnh 4</h3>
+      <p>Cột mốc 100 ngày 23/7/2020 :3</p>
     </Carousel.Caption>
   </Carousel.Item>
 </Carousel>
