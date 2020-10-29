@@ -10,7 +10,10 @@ import bg4 from './../img/slider/bg-4.jpg';
 import Portfolio from './Portfolio';
 import Portfolio2 from './Portfolio2';
 import Portfolio3 from './Portfolio3';
-
+import Portfolio4 from './Portfolio4';
+import Portfolio5 from './Portfolio5';
+import Portfolio6 from './Portfolio6';
+import Portfolio7 from './Portfolio7';
 
 function App() {
   return (
@@ -64,10 +67,25 @@ function App() {
       <p>Cột mốc 100 ngày 23/7/2020 :3</p>
     </Carousel.Caption>
   </Carousel.Item>
+  <Carousel.Item>
+    <img
+      className="d-block w-100"
+      src={bg4}
+      alt="First slide"
+    />
+    <Carousel.Caption>
+      <h3>Ảnh 5</h3>
+      <p>Cột mốc 200 ngày 31/10/2020 :3</p>
+    </Carousel.Caption>
+  </Carousel.Item>
 </Carousel>
     <Portfolio/>
     <Portfolio2/>
     <Portfolio3/>
+    <Portfolio4/>
+    <Portfolio5/>
+    <Portfolio6/>
+    <Portfolio7/>
      <Footer/>
     </div>
   );
