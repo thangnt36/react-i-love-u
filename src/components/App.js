@@ -7,6 +7,7 @@ import bg1 from './../img/slider/bg-1.jpg';
 import bg2 from './../img/slider/bg-2.jpg';
 import bg3 from './../img/slider/bg-3.jpg';
 import bg4 from './../img/slider/bg-4.jpg';
+import bg5 from './../img/slider/bg-5.PNG';
 import Portfolio from './Portfolio';
 import Portfolio2 from './Portfolio2';
 import Portfolio3 from './Portfolio3';
@@ -70,7 +71,7 @@ function App() {
   <Carousel.Item>
     <img
       className="d-block w-100"
-      src={bg4}
+      src={bg5}
       alt="First slide"
     />
     <Carousel.Caption>
