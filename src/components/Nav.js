@@ -20,7 +20,7 @@ export default function Nav() {
         <div>
             <nav className="navbar navbar-expand-md fixed-top scrolling-navbar bg-white">
   <div className="container">          
-    <a className="navbar-brand" href="#top"><span className="lni-bulb" />thangjik12</a>
+    <a className="navbar-brand" href="#top"><span className="lni-bulb" />thangnt98</a>
     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
       <i className="lni-menu" />
     </button>

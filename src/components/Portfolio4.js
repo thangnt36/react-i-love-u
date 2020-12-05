@@ -22,7 +22,7 @@ import img6 from './../img/portfolio/img-18.JPG';
 export default function Portfolio4() {
     return (
         <div>
-            <section id="portfolios2" className="section">
+            <section id="portfolios" className="section">
   {/* Container Starts */}
   <div className="container">
     <div className="section-header">          

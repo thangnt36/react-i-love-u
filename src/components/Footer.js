@@ -22,7 +22,7 @@ export default function Footer() {
     <div className="container">
       <div className="row">
         <div className="col-lg-6 col-md-6 col-sm-6 col-xs-6 col-mb-12">
-          <h3>thangjik12</h3>
+          <h3>thangnt98</h3>
           <div className="textwidget">
             <p>Trang web này làm phục vụ mục đích để nói rằng NTT yêu DTTH rất nhiều </p>
           </div>
