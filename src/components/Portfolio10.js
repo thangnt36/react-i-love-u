@@ -45,7 +45,7 @@ export default function Portfolio10() {
                   <div className="zoom-icon">
                     <a className="lightbox" href={img1}><i className="lni-zoom-in item-icon" /></a>
                   </div>
-                  <a href="#top">View Project</a>
+                  <a href="#top">Xem ảnh</a>
                 </div>
               </div>
             </div>

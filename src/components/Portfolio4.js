@@ -49,7 +49,7 @@ export default function Portfolio4() {
                   <div className="zoom-icon">
                     <a className="lightbox" href={img1}><i className="lni-zoom-in item-icon" /></a>
                   </div>
-                  <a href="#top">View Project</a>
+                  <a href="#top">Xem ảnh</a>
                 </div>
               </div>
             </div>
@@ -66,7 +66,7 @@ export default function Portfolio4() {
                   <div className="zoom-icon">
                     <a className="lightbox" href={img2}><i className="lni-zoom-in item-icon" /></a>
                   </div>
-                  <a href="#top">View Project</a>
+                  <a href="#top">Xem ảnh</a>
                 </div>
               </div>
             </div>
@@ -83,7 +83,7 @@ export default function Portfolio4() {
                   <div className="zoom-icon">
                     <a className="lightbox" href={img3}><i className="lni-zoom-in item-icon" /></a>
                   </div>
-                  <a href="#top">View Project</a>
+                  <a href="#top">Xem ảnh</a>
                 </div>
               </div>
             </div>
@@ -100,7 +100,7 @@ export default function Portfolio4() {
                   <div className="zoom-icon">
                     <a className="lightbox" href={img4}><i className="lni-zoom-in item-icon" /></a>
                   </div>
-                  <a href="#top">View Project</a>
+                  <a href="#top">Xem ảnh</a>
                 </div>
               </div>
             </div>
@@ -117,7 +117,7 @@ export default function Portfolio4() {
                   <div className="zoom-icon">
                     <a className="lightbox" href={img5}><i className="lni-zoom-in item-icon" /></a>
                   </div>
-                  <a href="#top">View Project</a>
+                  <a href="#top">Xem ảnh</a>
                 </div>
               </div>
             </div>
@@ -134,7 +134,7 @@ export default function Portfolio4() {
                   <div className="zoom-icon">
                     <a className="lightbox" href={img6}><i className="lni-zoom-in item-icon" /></a>
                   </div>
-                  <a href="#top">View Project</a>
+                  <a href="#top">Xem ảnh</a>
                 </div>
               </div>
             </div>
