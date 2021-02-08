@@ -12,7 +12,7 @@ import './../css/nivo-lightbox.css';
 import './../css/owl.carousel.css';
 import './../css/owl.theme.css';
 import './../css/responsive.css';
-import img1 from './../img/portfolio/img-13.PNG';
+import img1 from './../img/portfolio/img-13.jpg';
 import img2 from './../img/portfolio/img-14.JPG';
 import img3 from './../img/portfolio/img-15.JPG';
 import img4 from './../img/portfolio/img-16.JPG';
