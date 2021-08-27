@@ -23,6 +23,9 @@ import Portfolio11 from './Portfolio11';
 import Portfolio12 from './Portfolio12';
 import Portfolio13 from './Portfolio13';
 import Portfolio14 from './Portfolio14';
+import Portfolio15 from './Portfolio15';
+import Portfolio16 from './Portfolio16';
+import Portfolio17 from './Portfolio17';
 
 function App() {
   return (
@@ -113,6 +116,9 @@ function App() {
     <Portfolio12/>
     <Portfolio13/>
     <Portfolio14/>
+    <Portfolio15/>
+    <Portfolio16/>
+    <Portfolio17/>
      <Footer/>
     </div>
   );

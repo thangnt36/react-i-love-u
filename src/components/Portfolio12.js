@@ -19,7 +19,7 @@ import img4 from './../img/portfolio/img-47.JPG';
 import img5 from './../img/portfolio/img-48.JPG';
 import img6 from './../img/portfolio/img-49.JPG';
 
-export default function Portfolio9() {
+export default function Portfolio12() {
     return (
         <div>
             <section id="portfolios" className="section">
