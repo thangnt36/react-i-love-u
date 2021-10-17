@@ -14,14 +14,14 @@ import './../css/owl.theme.css';
 import './../css/responsive.css';
 import ReactPlayer from "react-player";
 
-export default function Portfolio17() {
+export default function Portfolio19() {
     return (
         <div>
             <section id="portfolios3" className="section">
   {/* Container Starts */}
   <div className="container">
     <div className="section-header">          
-      <h2 className="section-title">Lời chúc kỉ niệm 500 ngày yêu của anh dành cho NIKI :3</h2>
+      <h2 className="section-title">Lời chúc kỉ niệm 20/10 và lời cổ vũ bảo vệ tốt nghiệp của anh dành cho NIKI :3</h2>
       <span>NTT LOVE DTHH</span>
       <p className="section-subtitle">Hãy xem và cảm nhận tình yêu anh dành cho em nhé !!!</p>
     </div>
@@ -35,7 +35,7 @@ export default function Portfolio17() {
     {/* Portfolio Recent Projects */}
     <div  className="row portfolio">
       <div className="col-lg-12 col-md-12 col-xs-12 mix development print">
-        <ReactPlayer url="https://youtu.be/Bq3b425Salo" width="100" height="800px"></ReactPlayer>
+        <ReactPlayer url="https://youtu.be/oKl4Hk0bLH8" width="100" height="800px"></ReactPlayer>
       </div>
      
     </div>
