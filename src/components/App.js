@@ -28,6 +28,16 @@ import Portfolio16 from './Portfolio16';
 import Portfolio17 from './Portfolio17';
 import Portfolio18 from './Portfolio18';
 import Portfolio19 from './Portfolio19';
+import Portfolio20 from './Portfolio20';
+import Portfolio21 from './Portfolio21';
+import Portfolio22 from './Portfolio22';
+import Portfolio23 from './Portfolio23';
+import Portfolio24 from './Portfolio24';
+import Portfolio25 from './Portfolio25';
+import Portfolio26 from './Portfolio26';
+import Portfolio27 from './Portfolio27';
+import Portfolio28 from './Portfolio28';
+import Portfolio29 from './Portfolio29';
 
 function App() {
   return (
@@ -123,6 +133,16 @@ function App() {
     <Portfolio17/>
     <Portfolio18/>
     <Portfolio19/>
+    <Portfolio20/>
+    <Portfolio21/>
+    <Portfolio22/>
+    <Portfolio23/>
+    <Portfolio24/>
+    <Portfolio25/>
+    <Portfolio26/>
+    <Portfolio27/>
+    <Portfolio28/>
+    <Portfolio29/>
      <Footer/>
     </div>
   );
