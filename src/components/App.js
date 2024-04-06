@@ -46,6 +46,7 @@ import Portfolio32 from './Portfolio32';
 import Portfolio33 from './Portfolio33';
 import Portfolio34 from './Portfolio34';
 import Portfolio35 from './Portfolio35';
+import Portfolio36 from './Portfolio36';
 
 function App() {
   return (
@@ -179,6 +180,7 @@ function App() {
     <Portfolio33/>
     <Portfolio34/>
     <Portfolio35/>
+    <Portfolio36/>
      <Footer/>
     </div>
   );
