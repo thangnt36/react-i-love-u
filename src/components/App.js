@@ -11,6 +11,7 @@ import bg5 from './../img/slider/bg-5.jpg';
 import bg6 from './../img/slider/bg-6.jpg';
 import bg7 from './../img/slider/bg-7.jpg';
 import bg8 from './../img/slider/bg-8.jpg';
+import bg9 from './../img/slider/bg-9.jpg';
 import Portfolio from './Portfolio';
 import Portfolio2 from './Portfolio2';
 import Portfolio3 from './Portfolio3';
@@ -142,6 +143,17 @@ function App() {
     <Carousel.Caption>
       <h3>Ảnh 8</h3>
       <p>Cột mốc 500 ngày 27/8/2021 :3</p>
+    </Carousel.Caption>
+  </Carousel.Item>
+  <Carousel.Item>
+    <img
+      className="d-block w-100"
+      src={bg9}
+      alt="First slide"
+    />
+    <Carousel.Caption>
+      <h3>Ảnh 9</h3>
+      <p>Cột mốc 4 năm ngày 14/4/2024 :3</p>
     </Carousel.Caption>
   </Carousel.Item>
 </Carousel>
