@@ -12,6 +12,7 @@ import bg6 from './../img/slider/bg-6.jpg';
 import bg7 from './../img/slider/bg-7.jpg';
 import bg8 from './../img/slider/bg-8.jpg';
 import bg9 from './../img/slider/bg-9.jpg';
+import bg10 from './../img/slider/bg-10.jpg';
 import Portfolio from './Portfolio';
 import Portfolio2 from './Portfolio2';
 import Portfolio3 from './Portfolio3';
@@ -100,7 +101,7 @@ function App() {
     />
     <Carousel.Caption>
       <h3>Ảnh 4</h3>
-      <p>Cột mốc 100 ngày 23/7/2020 :3</p>
+      <p>Cột mốc 100 ngày - 23/7/2020 :3</p>
     </Carousel.Caption>
   </Carousel.Item>
   <Carousel.Item>
@@ -111,7 +112,7 @@ function App() {
     />
     <Carousel.Caption>
       <h3>Ảnh 5</h3>
-      <p>Cột mốc 200 ngày 31/10/2020 :3</p>
+      <p>Cột mốc 200 ngày - 31/10/2020 :3</p>
     </Carousel.Caption>
   </Carousel.Item>
   <Carousel.Item>
@@ -122,7 +123,7 @@ function App() {
     />
     <Carousel.Caption>
       <h3>Ảnh 6</h3>
-      <p>Cột mốc 300 ngày 8/2/2021 :3</p>
+      <p>Cột mốc 300 ngày - 8/2/2021 :3</p>
     </Carousel.Caption>
   </Carousel.Item>
   <Carousel.Item>
@@ -133,7 +134,7 @@ function App() {
     />
     <Carousel.Caption>
       <h3>Ảnh 7</h3>
-      <p>Cột mốc 1 năm ngày 14/4/2021 :3</p>
+      <p>Cột mốc 1 năm - 14/4/2021 :3</p>
     </Carousel.Caption>
   </Carousel.Item>
   <Carousel.Item>
@@ -144,7 +145,7 @@ function App() {
     />
     <Carousel.Caption>
       <h3>Ảnh 8</h3>
-      <p>Cột mốc 500 ngày 27/8/2021 :3</p>
+      <p>Cột mốc 500 ngày - 27/8/2021 :3</p>
     </Carousel.Caption>
   </Carousel.Item>
   <Carousel.Item>
@@ -155,7 +156,18 @@ function App() {
     />
     <Carousel.Caption>
       <h3>Ảnh 9</h3>
-      <p>Cột mốc 4 năm ngày 14/4/2024 :3</p>
+      <p>Cột mốc 4 năm - 14/4/2024 :3</p>
+    </Carousel.Caption>
+  </Carousel.Item>
+  <Carousel.Item>
+    <img
+      className="d-block w-100"
+      src={bg10}
+      alt="First slide"
+    />
+    <Carousel.Caption>
+      <h3>Ảnh 10</h3>
+      <p>Cột mốc 1500 ngày - 23/5/2024 :3</p>
     </Carousel.Caption>
   </Carousel.Item>
 </Carousel>
