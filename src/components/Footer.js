@@ -28,7 +28,7 @@ export default function Footer() {
           </div>
           <ul className="footer-social">
             <li><a className="facebook" href="https://www.facebook.com/th4ngnguyen"><i className="lni-facebook-filled" /></a></li>
-            <li><a className="twitter" href="https://www.instagram.com/ngtrongthang98"><i className="lni-instagram-filled" /></a></li>
+            <li><a className="twitter" href="https://www.instagram.com/thangnt98"><i className="lni-instagram-filled" /></a></li>
             
           </ul> 
         </div>
