@@ -35,7 +35,7 @@ export default function Portfolio47() {
     {/* Portfolio Recent Projects */}
     <div  className="row portfolio">
       <div className="col-lg-12 col-md-12 col-xs-12 mix development print">
-        <ReactPlayer url="https://youtube.com/shorts/Oc7yPULO2iQ" width="100" height="800px"></ReactPlayer>
+        <ReactPlayer url="https://youtube.com/shorts/09_9lOOYX3g" width="100" height="800px"></ReactPlayer>
       </div>
      
     </div>
