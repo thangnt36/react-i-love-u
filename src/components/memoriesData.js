@@ -691,7 +691,21 @@ const memoriesData = [
         { type: 'video', src: 'https://www.youtube.com/embed/zYA6z4U_0MM', alt: 'Video' },
       ],
     },
-
+    {
+      id: 'moc-55',
+        title: 'Vlog Tour Đêm Hà Nội 2025',
+        subtitle: 'NTT LOVE DTHH',
+        date: '4/4/2025',
+        description: 'Hãy xem và cảm nhận tình yêu anh dành cho em nhé !!!',
+        mediaItems: [
+          { 
+            type: 'video', 
+            src: 'https://drive.google.com/file/d/1nt9mTKGE2Y_SIGojfqkx-pbfNeUTLNzv/preview', 
+            alt: 'Video',
+            aspect: 'vertical'  // <-- Thêm thuộc tính này
+          },
+        ],
+    },
     // Các mốc khác...
   ];
   
