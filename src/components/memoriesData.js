@@ -706,6 +706,21 @@ const memoriesData = [
           },
         ],
     },
+    {
+      id: 'moc-56',
+        title: 'Bộ ảnh Tobby part 3',
+        subtitle: 'NTT LOVE DTHH',
+        date: '8/4/2025',
+        description: 'Những khoảnh khắc của Tobby bên bố và mẹ cùng căn nhà cũ nhưng mà tầng mới:v',
+      mediaItems: [
+        { type: 'image', src: images.img184, alt: 'Ảnh' },
+        { type: 'image', src: images.img185, alt: 'Ảnh' },
+        { type: 'image', src: images.img186, alt: 'Ảnh' },
+        { type: 'image', src: images.img187, alt: 'Ảnh' },
+        { type: 'image', src: images.img188, alt: 'Ảnh' },
+        { type: 'image', src: images.img189, alt: 'Ảnh' },
+      ],
+    },
     // Các mốc khác...
   ];
   
