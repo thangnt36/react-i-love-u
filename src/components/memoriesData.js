@@ -127,7 +127,7 @@ const memoriesData = [
     },
     {
       id: 'moc-10',
-        title: 'Bộ ảnh Kỉ Niệm Lần đầu tiên Đôi ta đón năm mới cùng nhau',
+        title: 'Bức ảnh Kỉ Niệm Lần đầu tiên Đôi ta đón năm mới cùng nhau',
         subtitle: 'NTT LOVE DTHH',
         date: '1/1/2021',
         description: 'Lần đầu tiên ngắm pháo hoa cùng nhau - Chụp được mỗi 1 bức này :))',

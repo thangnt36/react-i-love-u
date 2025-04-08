@@ -29,10 +29,6 @@ function Nav() {
         </button>
         <div className={`collapse navbar-collapse ${menuOpen ? 'show' : ''}`}>
           <ul className="navbar-nav ml-auto mt-2 mt-lg-0">
-            {/* Liên kết đến phần đầu trang */}
-            <li className="nav-item">
-              <a className="nav-link" href="#top">Trang Chủ</a>
-            </li>
             {/* Liên kết đến nhóm "Trước yêu nhau" */}
             <li className="nav-item">
               <a className="nav-link" href="#truoc-yeu-nhau">Khi Chưa Gặp Nhau</a>

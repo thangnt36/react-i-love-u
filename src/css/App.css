@@ -46,3 +46,27 @@
   height: 100%;
   border: 0;
 }
+
+.navbar-light .navbar-nav .nav-link {
+  color: #333 !important; /* Đặt màu đậm, dễ nhìn (hoặc màu khác bạn thích) */
+  transition: color 0.3s ease; /* Hiệu ứng chuyển màu mượt hơn */
+}
+
+.navbar-light .navbar-nav .nav-link:hover,
+.navbar-light .navbar-nav .nav-link:focus {
+  color: #e91e63 !important; /* Màu hồng đậm hơn khi hover/click */
+}
+
+/* Khi phần menu navbar-light mở rộng (show) trên mobile, đặt nền và màu chữ mong muốn */
+.navbar-light .navbar-collapse.show {
+  background-color: #fff !important; /* Đổi #fff sang màu nền bạn thích */
+}
+
+/* Đổi màu chữ của link trong menu mở rộng */
+.navbar-light .navbar-collapse.show .nav-link {
+  color: #333 !important; /* Hoặc #000, #fff, #e91e63... tuỳ ý bạn */
+}
+
+.navbar-light .navbar-collapse.show .nav-link:hover {
+  color: #e91e63 !important; /* Màu khi hover */
+}
