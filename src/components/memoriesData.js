@@ -731,6 +731,42 @@ const memoriesData = [
         { type: 'video', src: 'https://www.youtube.com/embed/l4WasIx7B1Q', alt: 'Video' },
       ],
     },
+    {
+      id: 'moc-58',
+        title: 'Bộ ảnh kỉ niệm 5 năm - yamada sushi',
+        subtitle: 'NTT LOVE DTHH',
+        date: '14/4/2025',
+        description: 'Bữa ăn thật ngon và những tấm ảnh đôi ta thật đẹp!',
+      mediaItems: [
+        { type: 'image', src: images.img190, alt: 'Ảnh' },
+        { type: 'image', src: images.img191, alt: 'Ảnh' },
+        { type: 'image', src: images.img192, alt: 'Ảnh' },
+        { type: 'image', src: images.img193, alt: 'Ảnh' },
+        { type: 'image', src: images.img194, alt: 'Ảnh' },
+        { type: 'image', src: images.img195, alt: 'Ảnh' },
+      ],
+    },
+    {
+      id: 'moc-59',
+        title: 'Bộ ảnh kỉ niệm 5 năm - lối nhỏ kafe',
+        subtitle: 'NTT LOVE DTHH',
+        date: '14/4/2025',
+        description: 'Một lần nữa lại là nơi đây, cơ sở khác nhưng vẫn có ảnh đẹp :v',
+      mediaItems: [
+        { type: 'image', src: images.img196, alt: 'Ảnh' },
+        { type: 'image', src: images.img197, alt: 'Ảnh' },
+        { type: 'image', src: images.img198, alt: 'Ảnh' },
+        { type: 'image', src: images.img199, alt: 'Ảnh' },
+        { type: 'image', src: images.img200, alt: 'Ảnh' },
+        { type: 'image', src: images.img201, alt: 'Ảnh' },
+        { type: 'image', src: images.img202, alt: 'Ảnh' },
+        { type: 'image', src: images.img203, alt: 'Ảnh' },
+        { type: 'image', src: images.img204, alt: 'Ảnh' },
+        { type: 'image', src: images.img205, alt: 'Ảnh' },
+        { type: 'image', src: images.img206, alt: 'Ảnh' },
+        { type: 'image', src: images.img207, alt: 'Ảnh' },
+      ],
+    },
     // Các mốc khác...
   ];
   
