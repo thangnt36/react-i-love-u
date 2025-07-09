@@ -767,6 +767,24 @@ const memoriesData = [
         { type: 'image', src: images.img207, alt: 'Ảnh' },
       ],
     },
+    {
+      id: 'moc-60',
+        title: 'Bộ ảnh kỉ niệm Tour Đà Nẵng - Hội An - Bà Nà Hills - Huế 2025',
+        subtitle: 'NTT LOVE DTHH',
+        date: '3/7/2025',
+        description: 'Chuyến đi lần đầu tiên vói gia đình nhà nội vui vẻ và đáng nhớ!',
+      mediaItems: [
+        { type: 'image', src: images.img208, alt: 'Ảnh' },
+        { type: 'image', src: images.img209, alt: 'Ảnh' },
+        { type: 'image', src: images.img210, alt: 'Ảnh' },
+        { type: 'image', src: images.img211, alt: 'Ảnh' },
+        { type: 'image', src: images.img212, alt: 'Ảnh' },
+        { type: 'image', src: images.img213, alt: 'Ảnh' },
+        { type: 'image', src: images.img214, alt: 'Ảnh' },
+        { type: 'image', src: images.img215, alt: 'Ảnh' },
+        { type: 'image', src: images.img216, alt: 'Ảnh' },
+      ],
+    },
     // Các mốc khác...
   ];
   
