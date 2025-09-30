@@ -785,6 +785,73 @@ const memoriesData = [
         { type: 'image', src: images.img216, alt: 'Ảnh' },
       ],
     },
+    {
+      id: 'moc-61',
+        title: 'Bộ ảnh kỉ niệm Cafe Sách Wiselands',
+        subtitle: 'NTT LOVE DTHH',
+        date: '18/7/2025',
+        description: 'Trông sách và quán cafe này đẹp quá nên chúng ta lại có thêm ảnh đẹp :v',
+      mediaItems: [
+        { type: 'image', src: images.img217, alt: 'Ảnh' },
+        { type: 'image', src: images.img218, alt: 'Ảnh' },
+        { type: 'image', src: images.img219, alt: 'Ảnh' },
+        { type: 'image', src: images.img220, alt: 'Ảnh' },
+        { type: 'image', src: images.img221, alt: 'Ảnh' },
+        { type: 'image', src: images.img222, alt: 'Ảnh' },
+      ],
+    },
+    {
+      id: 'moc-62',
+        title: 'Bộ ảnh kỉ niệm đi xem Sơ duyệt diễu binh',
+        subtitle: 'NTT LOVE DTHH',
+        date: '27/8/2025',
+        description: 'Do quá đông nên chỉ có thể đứng xa xa chụp ảnh thôi, cũng may còn chỗ trên quán cafe :v',
+      mediaItems: [
+        { type: 'image', src: images.img223, alt: 'Ảnh' },
+        { type: 'image', src: images.img224, alt: 'Ảnh' },
+        { type: 'image', src: images.img225, alt: 'Ảnh' },
+      ],
+    },
+    {
+      id: 'moc-63',
+        title: 'Bộ ảnh kỉ niệm Đi xem triển lãm 80 năm thành tựu đất nước ',
+        subtitle: 'NTT LOVE DTHH',
+        date: '31/8/2025',
+        description: 'Một pha tắc đường kinh điển để có thể đến được triển lãm tham quan và chụp được những bức ảnh kỉ niệm có bút chì và xe tăng :v',
+      mediaItems: [
+        { type: 'image', src: images.img226, alt: 'Ảnh' },
+        { type: 'image', src: images.img227, alt: 'Ảnh' },
+        { type: 'image', src: images.img228, alt: 'Ảnh' },
+        { type: 'image', src: images.img229, alt: 'Ảnh' },
+        { type: 'image', src: images.img230, alt: 'Ảnh' },
+        { type: 'image', src: images.img231, alt: 'Ảnh' },
+        { type: 'image', src: images.img232, alt: 'Ảnh' },
+        { type: 'image', src: images.img233, alt: 'Ảnh' },
+        { type: 'image', src: images.img234, alt: 'Ảnh' },
+      ],
+    },
+    {
+      id: 'moc-64',
+        title: 'Bộ ảnh kỉ niệm đi xem Diễu binh kỷ niệm 80 năm Quốc khánh Việt Nam',
+        subtitle: 'NTT LOVE DTHH',
+        date: '2/9/2025',
+        description: 'Ngắm được đội xe bánh lốp mà không phải chen chúc, cũng gọi là có không khí :v',
+      mediaItems: [
+        { type: 'image', src: images.img235, alt: 'Ảnh' },
+        { type: 'image', src: images.img236, alt: 'Ảnh' },
+        { type: 'image', src: images.img237, alt: 'Ảnh' },
+      ],
+    },
+    {
+      id: 'moc-65',
+        title: 'Lời chúc kỉ niệm 2000 ngày yêu của anh dành cho NIKI :3',
+        subtitle: 'NTT LOVE DTHH',
+        date: '5/10/2025',
+        description: 'Hãy xem và cảm nhận tình yêu anh dành cho em nhé !!!',
+      mediaItems: [
+        { type: 'video', src: 'https://www.youtube.com/embed/l4WasIx7B1Q', alt: 'Video' },
+      ],
+    },
     // Các mốc khác...
   ];
   
