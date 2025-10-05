@@ -14,6 +14,7 @@ import bg8 from './../img/slider/bg-8.jpg';
 import bg9 from './../img/slider/bg-9.jpg';
 import bg10 from './../img/slider/bg-10.jpg';
 import bg11 from './../img/slider/bg-11.jpg';
+import bg12 from './../img/slider/bg-12.jpg';
 import GroupedMemories from './GroupedMemories';
 
 function App() {
@@ -144,6 +145,17 @@ function App() {
     <Carousel.Caption>
       <h3>Ảnh 11</h3>
       <p>Cột mốc 5 năm - 14/4/2025 :3</p>
+    </Carousel.Caption>
+  </Carousel.Item>
+  <Carousel.Item>
+    <img
+      className="d-block w-100"
+      src={bg12}
+      alt="First slide"
+    />
+    <Carousel.Caption>
+      <h3>Ảnh 12</h3>
+      <p>Cột mốc 2000 ngày - 5/10/2025 :3</p>
     </Carousel.Caption>
   </Carousel.Item>
 </Carousel>
