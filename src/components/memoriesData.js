@@ -857,7 +857,7 @@ const memoriesData = [
         title: 'Bộ ảnh kỉ niệm 2000 ngày - stirling steaks',
         subtitle: 'NTT LOVE DTHH',
         date: '5/10/2025',
-        description: 'Quán decor đẹp, đồ ăn ngon và ảnh em và đôi ta cũng đẹp!',
+        description: 'Quán decor đẹp, đồ ăn ngon và ảnh đôi ta cũng đẹp!',
       mediaItems: [
         { type: 'image', src: images.img238, alt: 'Ảnh' },
         { type: 'image', src: images.img239, alt: 'Ảnh' },
