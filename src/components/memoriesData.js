@@ -854,7 +854,7 @@ const memoriesData = [
     },
     {
       id: 'moc-66',
-        title: 'Bộ ảnh kỉ niệm 2000 ngày - striling steaks',
+        title: 'Bộ ảnh kỉ niệm 2000 ngày - stirling steaks',
         subtitle: 'NTT LOVE DTHH',
         date: '5/10/2025',
         description: 'Quán decor đẹp, đồ ăn ngon và ảnh em và đôi ta cũng đẹp!',
