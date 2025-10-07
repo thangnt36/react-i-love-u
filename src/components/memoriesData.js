@@ -852,6 +852,42 @@ const memoriesData = [
         { type: 'video', src: 'https://www.youtube.com/embed/Jh4tN3ub7YI', alt: 'Video' },
       ],
     },
+    {
+      id: 'moc-66',
+        title: 'Bộ ảnh kỉ niệm 2000 ngày - striling steaks',
+        subtitle: 'NTT LOVE DTHH',
+        date: '5/10/2025',
+        description: 'Quán decor đẹp, đồ ăn ngon và ảnh em và đôi ta cũng đẹp!',
+      mediaItems: [
+        { type: 'image', src: images.img238, alt: 'Ảnh' },
+        { type: 'image', src: images.img239, alt: 'Ảnh' },
+        { type: 'image', src: images.img240, alt: 'Ảnh' },
+        { type: 'image', src: images.img241, alt: 'Ảnh' },
+        { type: 'image', src: images.img242, alt: 'Ảnh' },
+        { type: 'image', src: images.img243, alt: 'Ảnh' },
+        { type: 'image', src: images.img244, alt: 'Ảnh' },
+        { type: 'image', src: images.img245, alt: 'Ảnh' },
+        { type: 'image', src: images.img246, alt: 'Ảnh' },
+      ],
+    },
+    {
+      id: 'moc-67',
+        title: 'Bộ ảnh kỉ niệm 2000 ngày - Phố bích hoạ, hàng mã, tào phớ jelly bean và cafe phim',
+        subtitle: 'NTT LOVE DTHH',
+        date: '5/10/2025',
+        description: 'Gợi nhắc lại kỉ niệm ngày đầu tiên đôi ta gặp nhau ngoài đời!',
+      mediaItems: [
+        { type: 'image', src: images.img247, alt: 'Ảnh' },
+        { type: 'image', src: images.img248, alt: 'Ảnh' },
+        { type: 'image', src: images.img249, alt: 'Ảnh' },
+        { type: 'image', src: images.img250, alt: 'Ảnh' },
+        { type: 'image', src: images.img251, alt: 'Ảnh' },
+        { type: 'image', src: images.img252, alt: 'Ảnh' },
+        { type: 'image', src: images.img253, alt: 'Ảnh' },
+        { type: 'image', src: images.img254, alt: 'Ảnh' },
+        { type: 'image', src: images.img255, alt: 'Ảnh' },
+      ],
+    },
     // Các mốc khác...
   ];
   
