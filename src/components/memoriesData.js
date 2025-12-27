@@ -888,6 +888,54 @@ const memoriesData = [
         { type: 'image', src: images.img255, alt: 'Ảnh' },
       ],
     },
+    {
+      id: 'moc-68',
+        title: 'Bộ ảnh kỉ niệm 1 năm ngày cưới - Tà Xùa 2025 P1',
+        subtitle: 'NTT LOVE DTHH',
+        date: '19/12/2025',
+        description: 'Chuyến đi kỉ niệm và chữa lành sau những ngày bận rộn với công việc!',
+      mediaItems: [
+        { type: 'image', src: images.img256, alt: 'Ảnh' },
+        { type: 'image', src: images.img257, alt: 'Ảnh' },
+        { type: 'image', src: images.img258, alt: 'Ảnh' },
+        { type: 'image', src: images.img259, alt: 'Ảnh' },
+        { type: 'image', src: images.img260, alt: 'Ảnh' },
+        { type: 'image', src: images.img261, alt: 'Ảnh' },
+      ],
+    },
+    {
+      id: 'moc-69',
+        title: 'Bộ ảnh kỉ niệm 1 năm ngày cưới - Tà Xùa 2025 P2',
+        subtitle: 'NTT LOVE DTHH',
+        date: '19/12/2025',
+        description: 'Chuyến đi kỉ niệm và chữa lành sau những ngày bận rộn với công việc!',
+      mediaItems: [
+        { type: 'image', src: images.img262, alt: 'Ảnh' },
+        { type: 'image', src: images.img263, alt: 'Ảnh' },
+        { type: 'image', src: images.img264, alt: 'Ảnh' },
+        { type: 'image', src: images.img265, alt: 'Ảnh' },
+        { type: 'image', src: images.img266, alt: 'Ảnh' },
+        { type: 'image', src: images.img267, alt: 'Ảnh' },
+        { type: 'image', src: images.img268, alt: 'Ảnh' },
+        { type: 'image', src: images.img269, alt: 'Ảnh' },
+        { type: 'image', src: images.img270, alt: 'Ảnh' },
+      ],
+    },
+    {
+      id: 'moc-70',
+        title: 'Video Chuyến đi kỉ niệm 1 năm ngày cưới - Tà Xùa 2025 của chúng ta',
+        subtitle: 'NTT LOVE DTHH',
+        date: '19/12/2025',
+        description: 'Hãy xem và cảm nhận tình yêu anh dành cho em nhé !!!',
+        mediaItems: [
+          { 
+            type: 'video', 
+            src: 'https://drive.google.com/file/d/1_mpfmHBo2GmDBcn8q8mqCA1gQd6MjK30/preview', 
+            alt: 'Video',
+            aspect: 'vertical'  // <-- Thêm thuộc tính này
+          },
+        ],
+    },
     // Các mốc khác...
   ];
   
