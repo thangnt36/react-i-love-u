@@ -936,6 +936,31 @@ const memoriesData = [
           },
         ],
     },
+    {
+      id: 'moc-71',
+        title: 'Bộ ảnh kỉ niệm Cafe Đường Tàu 2026',
+        subtitle: 'NTT LOVE DTHH',
+        date: '9/1/2026',
+        description: 'Nhân ngày em nghỉ phép và Cafe Đường Tàu sắp đóng :v',
+      mediaItems: [
+        { type: 'image', src: images.img271, alt: 'Ảnh' },
+      ],
+    },
+    {
+      id: 'moc-72',
+        title: 'Vlog Tour Cafe Đường Tàu 2026',
+        subtitle: 'NTT LOVE DTHH',
+        date: '9/1/2026',
+        description: 'Hãy xem và cảm nhận tình yêu anh dành cho em nhé !!!',
+        mediaItems: [
+          { 
+            type: 'video', 
+            src: 'https://drive.google.com/file/d/11wp834xJiJB13oLsjNsGBFwhhwj5at5c/preview', 
+            alt: 'Video',
+            aspect: 'vertical'  // <-- Thêm thuộc tính này
+          },
+        ],
+    },
     // Các mốc khác...
   ];
   

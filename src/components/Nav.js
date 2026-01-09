@@ -52,6 +52,9 @@ function Nav() {
             <li className="nav-item">
               <a className="nav-link" href="#2025">2025</a>
             </li>
+            <li className="nav-item">
+              <a className="nav-link" href="#2026">2026</a>
+            </li>
             {/* Liên kết đến Footer */}
             <li className="nav-item">
               <a className="nav-link" href="#footers">Liên Hệ</a>
