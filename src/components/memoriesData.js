@@ -150,7 +150,7 @@ const memoriesData = [
         title: 'Bộ ảnh Kỉ Niệm Lần đi Cafe Lối Nhỏ - Không gian cực Chill',
         subtitle: 'NTT LOVE DTHH',
         date: '7/3/2021',
-        description: 'Nhiều góc sống ảo quá nên lựa mới không hết :))',
+        description: 'Nhiều góc sống ảo quá nên lựa mãi không hết :))',
       mediaItems: [
         { type: 'image', src: images.img44, alt: 'Ảnh' },
         { type: 'image', src: images.img45, alt: 'Ảnh' },
@@ -350,7 +350,7 @@ const memoriesData = [
         title: 'Bộ ảnh Kỉ Niệm Tam Đảo 2023',
         subtitle: 'NTT LOVE DTHH',
         date: '4/3/2023',
-        description: 'Lễ tốt nghiệp ai ảnh người đó đẹp á :v',
+        description: 'Một chuyến đi chill và đầy ắp những kỉ niệm của đôi ta!',
       mediaItems: [
         { type: 'image', src: images.img104, alt: 'Ảnh' },
         { type: 'image', src: images.img105, alt: 'Ảnh' },
@@ -557,7 +557,7 @@ const memoriesData = [
         title: 'Bộ ảnh ngày ăn Hỏi và Cưới Của Đôi Ta',
         subtitle: 'NTT LOVE DTHH',
         date: '2/11/2024',
-        description: 'Ngày trọng đại nhất của đôi ta',
+        description: 'Ngày trọng đại nhất của đôi ta!',
       mediaItems: [
         { type: 'image', src: images.img163, alt: 'Ảnh' },
         { type: 'image', src: images.img164, alt: 'Ảnh' },
