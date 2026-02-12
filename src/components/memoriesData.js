@@ -961,6 +961,16 @@ const memoriesData = [
           },
         ],
     },
+    {
+      id: 'moc-73',
+        title: 'Bộ ảnh kỉ niệm Valentine 2026',
+        subtitle: 'NTT LOVE DTHH',
+        date: '14/2/2026',
+        description: 'Valentine cuối ăn fine dining :v',
+      mediaItems: [
+        { type: 'image', src: images.img272, alt: 'Ảnh' },
+      ],
+    },
     // Các mốc khác...
   ];
   
