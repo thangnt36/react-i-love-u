@@ -467,7 +467,7 @@ const memoriesData = [
     },
     {
       id: 'moc-36',
-        title: 'Bộ ảnh Kỉ Niệm 4 Năm',
+        title: 'Bộ ảnh kỉ Niệm 4 năm yêu',
         subtitle: 'NTT LOVE DTHH',
         date: '14/4/2024',
         description: 'Những món ăn ngon, bức ảnh đẹp và lần đầu đi đu idol cùng nhau :v',
@@ -733,7 +733,7 @@ const memoriesData = [
     },
     {
       id: 'moc-58',
-        title: 'Bộ ảnh kỉ niệm 5 năm - yamada sushi',
+        title: 'Bộ ảnh kỉ niệm 5 năm yêu - yamada sushi',
         subtitle: 'NTT LOVE DTHH',
         date: '14/4/2025',
         description: 'Bữa ăn thật ngon và những tấm ảnh đôi ta thật đẹp!',
@@ -748,7 +748,7 @@ const memoriesData = [
     },
     {
       id: 'moc-59',
-        title: 'Bộ ảnh kỉ niệm 5 năm - lối nhỏ kafe',
+        title: 'Bộ ảnh kỉ niệm 5 năm yêu - lối nhỏ kafe',
         subtitle: 'NTT LOVE DTHH',
         date: '14/4/2025',
         description: 'Một lần nữa lại là nơi đây, cơ sở khác nhưng vẫn có ảnh đẹp :v',
@@ -979,6 +979,16 @@ const memoriesData = [
         description: 'Hãy xem và cảm nhận tình yêu anh dành cho em nhé !!!',
       mediaItems: [
         { type: 'video', src: 'https://www.youtube.com/embed/LVg-yN4G_9g', alt: 'Video' },
+      ],
+    },
+    {
+      id: 'moc-75',
+        title: 'Bộ ảnh kỉ niệm 6 năm yêu',
+        subtitle: 'NTT LOVE DTHH',
+        date: '14/4/2026',
+        description: 'Một lễ kỉ niệm bình thường như mong muốn của em - đi ăn tối và xem phim cùng nhau',
+      mediaItems: [
+        { type: 'image', src: images.img273, alt: 'Ảnh' },
       ],
     },
     // Các mốc khác...
