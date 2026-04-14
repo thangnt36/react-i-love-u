@@ -971,6 +971,16 @@ const memoriesData = [
         { type: 'image', src: images.img272, alt: 'Ảnh' },
       ],
     },
+    {
+      id: 'moc-74',
+        title: 'Lời chúc kỉ niệm 6 năm yêu của anh dành cho NIKI :3',
+        subtitle: 'NTT LOVE DTHH',
+        date: '14/4/2026',
+        description: 'Hãy xem và cảm nhận tình yêu anh dành cho em nhé !!!',
+      mediaItems: [
+        { type: 'video', src: 'https://www.youtube.com/embed/LVg-yN4G_9g', alt: 'Video' },
+      ],
+    },
     // Các mốc khác...
   ];
   
