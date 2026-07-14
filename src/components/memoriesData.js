@@ -991,6 +991,39 @@ const memoriesData = [
         { type: 'image', src: images.img273, alt: 'Ảnh' },
       ],
     },
+    {
+      id: 'moc-76',
+        title: 'Bộ ảnh kỉ niệm Tour Cát Bà 2026',
+        subtitle: 'NTT LOVE DTHH',
+        date: '11/7/2026',
+        description: 'Em muốn đi biển, có anh lo!',
+      mediaItems: [
+        { type: 'image', src: images.img274, alt: 'Ảnh' },
+        { type: 'image', src: images.img275, alt: 'Ảnh' },
+        { type: 'image', src: images.img276, alt: 'Ảnh' },
+        { type: 'image', src: images.img277, alt: 'Ảnh' },
+        { type: 'image', src: images.img278, alt: 'Ảnh' },
+        { type: 'image', src: images.img279, alt: 'Ảnh' },
+        { type: 'image', src: images.img280, alt: 'Ảnh' },
+        { type: 'image', src: images.img281, alt: 'Ảnh' },
+        { type: 'image', src: images.img282, alt: 'Ảnh' },
+      ],
+    },
+    {
+      id: 'moc-77',
+        title: 'Video Chuyến đi Cát Bà 2026 của chúng ta',
+        subtitle: 'NTT LOVE DTHH',
+        date: '11/7/2026',
+        description: 'Hãy xem và cảm nhận tình yêu anh dành cho em nhé !!!',
+        mediaItems: [
+          { 
+            type: 'video', 
+            src: 'https://drive.google.com/file/d/11e_3d9RTtpIEfyFWqsvDLSQ5SwfrYixL/preview', 
+            alt: 'Video',
+            aspect: 'vertical'  // <-- Thêm thuộc tính này
+          },
+        ],
+    },
     // Các mốc khác...
   ];
   
