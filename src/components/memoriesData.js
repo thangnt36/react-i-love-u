@@ -1024,6 +1024,16 @@ const memoriesData = [
           },
         ],
     },
+    {
+      id: 'moc-78',
+        title: 'Bộ ảnh kỉ niệm 2 năm cưới',
+        subtitle: 'NTT LOVE DTHH',
+        date: '2/11/2026',
+        description: 'Một lễ kỉ niệm bình thường như mong muốn của em - đi ăn tối và cafe cùng nhau',
+      mediaItems: [
+        { type: 'image', src: images.img283, alt: 'Ảnh' },
+      ],
+    },
     // Các mốc khác...
   ];
   
